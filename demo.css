@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+}
+.container {
+    text-align: center;
+}
+
+.top_label {
+    text-align: start;
+    font-size: 16px;
+}
+
+.sub_container {
+    border: 1px solid #000000;
+}
+
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.change_mode_wrap {
+    border: 1px solid #e8d9d9;
+    padding: 2px;
+    border-radius: 12px;
+}
+
+.image_wrap {
+    width: 45%;
+}
+h3{
+    text-align: start;
+}
+.sub_heading{
+    text-align: start;
+}
+.content_p{
+    text-align: start;
+}
+.sub_comntent_p{
+    text-align: start;
+}
